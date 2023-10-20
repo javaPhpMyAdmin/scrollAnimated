@@ -126,7 +126,7 @@ export function Office(props) {
           <mesh geometry={nodes['02_library'].geometry} material={materials['02']} />
         </group>
       </group>
-      <group position={[-1,97, 4.23, -2.2]}>
+      <group position={[-1.97, 4.23, -2.2]}>
         <group ref={atticRef}>
           <mesh geometry={nodes['03_attic'].geometry} material={materials['03']}   />
         </group>
