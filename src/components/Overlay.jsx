@@ -77,7 +77,7 @@ export const Overlay = ()=>{
             🤙 Email me maybe?
           </h1>
           <p style={{color:'gray'}}>
-            I'm very expensive but you won't regret it, just kidding
+            Tell me what you wanna know about me
           </p>
           <p  style={{marginTop: '24px', padding: '12px', background:'rgb(226 232 240)', borderRadius:'8px'}}>
             📧  chelobat16411@gmail.com
